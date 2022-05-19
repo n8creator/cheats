@@ -6,6 +6,7 @@ authors = ["n8creator <n8creator@pm.me>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pydata-sphinx-theme = "^0.8.1"
 
 [tool.poetry.dev-dependencies]
 Sphinx = "^4.5.0"
