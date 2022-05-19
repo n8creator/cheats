@@ -1,3 +1,0 @@
-# Markdown file
-
-sample data
