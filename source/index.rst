@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to n8creator-cheat-sheet's documentation!
+N8creator cheat sheets
 =================================================
 
 .. toctree::
