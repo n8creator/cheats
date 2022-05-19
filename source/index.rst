@@ -7,10 +7,11 @@ N8creator cheat sheets
 =================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
    source/yaml
-   markdown.md
+   markdown
+   yaml
 
 
 Indices and tables
