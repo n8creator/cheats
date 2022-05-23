@@ -122,14 +122,14 @@ staging-deploy:
 
 ### 1.9. Passing arguments
 
-Imagine you need to pass an agrument to Make shortcut. This can be done by using `$(ARG)` construction, like:
+Imagine you need to pass an agrument to Make shortcut. This can be done by using `$(ARG)` variable, like:
 
 ```makefile
 taging-fetch:
     scp app@staging-server.dev:/path/to/app/$(ARG)/ ./
 ```
 
-Then you may call Make command like this:
+Then you may call Make shortcut like this:
 
 ```sh
 make staging-fetch ARG=db/dump.tgz
@@ -181,4 +181,4 @@ MAKEFLAGS += --no-print-directory
 ## 3. Useful links
 
 - [Modern Make Handbook for modern developers](https://makefile.site/)
-- [What is a Makefile and how to start using it (on Russian)](https://guides.hexlet.io/ru/makefile-as-task-runner/)
+- [What is a Makefile and how to start using it (in Russian)](https://guides.hexlet.io/ru/makefile-as-task-runner/)
