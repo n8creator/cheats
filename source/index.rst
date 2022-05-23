@@ -5,6 +5,7 @@ N8creator Cheat Sheets
    :maxdepth: 1
 
    yaml
+   makefile
    django/index
 
 Indices and tables
