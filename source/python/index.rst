@@ -1,8 +1,7 @@
-Django
+Python
 ======
 
 .. toctree::
    :maxdepth: 1
 
-   dokku_postgres
-   dokku
+   pyenv
